@@ -2,3 +2,7 @@ h2 {
     font-size: 18px;
     color: rgb(99, 92, 92);
 }
+
+p {
+    line-height: 22px;
+}
