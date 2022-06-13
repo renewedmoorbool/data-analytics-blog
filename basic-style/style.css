@@ -6,3 +6,7 @@ h2 {
 p {
     line-height: 22px;
 }
+
+li {
+    margin-top: 10px;
+}
